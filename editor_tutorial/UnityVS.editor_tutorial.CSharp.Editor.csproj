@@ -80,6 +80,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Editor\CharacterAttributesEditor.cs" />
     <Compile Include="Assets\Editor\LevelScriptEditor.cs" />
     <Compile Include="Assets\Editor\ObjectBuilderEditor.cs" />
     <Compile Include="Assets\Editor\SomeScriptEditor.cs" />
